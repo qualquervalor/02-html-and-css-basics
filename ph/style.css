@@ -1,0 +1,59 @@
+@import url(http://fonts.googleapis.com/css?family=Condiment);
+p{
+	margin: 0;
+}
+h1{
+	background-color: grey;
+	padding: 10px;
+	font-family: 'Condiment';
+	text-transform: uppercase;
+}
+div{
+	padding: 20px;
+}
+i14{
+	background-color: #3479Af;
+}
+#i13{
+	background-color: #3686b7;
+}
+#i12{
+	background-color: #3293c3;
+}
+#i11{
+	background-color: #5eadd2;
+}
+#i10{
+	background-color: #75bbda;
+}
+#i9{
+	background-color: #8bc3de;
+}
+#i8{
+	background-color: green;
+}
+#i7{
+	background-color: #3479Af;
+}
+#i6{
+	background-color: #3479Af;
+}
+#i5{
+	background-color: #3479Af;
+}
+#i4{
+	background-color: #3479Af;
+}
+#i3{
+	background-color: #3479Af;
+}
+#i2{
+	background-color: #3479Af;
+}
+#i1{
+	background-color: #3479Af;
+}
+#i0{
+	background-color: #3479Af;
+}
+span{font-size: 30px}
